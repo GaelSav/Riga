@@ -14,6 +14,10 @@ public class PiensBar {
     }
 
     public void augmenterLeSon() {
+
+    }
+
+    public void ajouterLesBass() {
         
     }
 
