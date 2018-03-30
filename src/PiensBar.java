@@ -13,4 +13,8 @@ public class PiensBar {
         _nomMusique = nomMusique;
     }
 
+    public void augmenterLeSon() {
+        
+    }
+
 }
