@@ -7,4 +7,8 @@ public class PiensBar {
 
     }
 
+    public void virerLesGens() {
+
+    }
+
 }
